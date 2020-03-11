@@ -1,1 +1,1 @@
-# Usful Windows Stuff for Diagnosing Puppet Problems
+# Useful Windows Stuff for Diagnosing Puppet Problems
